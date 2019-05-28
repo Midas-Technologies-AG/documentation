@@ -160,3 +160,6 @@ actions, such as investment, redemption and fee payment.
 As mentioned above, the infrastructure layer is managed by Governance.
 More information on how governance is structured and operated is
 described in the Governance documentation.
+
+NOTE: The whole documentation was put together under `melonport/protocol-documentation` as pdf and adoc. To convert adoc to pdf you just need `asciidoctor-pdf`.
+
