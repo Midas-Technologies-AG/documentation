@@ -1,3 +1,6 @@
+
+<<<
+
 [[exchange-adapters]]
 Exchange Adapters
 -----------------

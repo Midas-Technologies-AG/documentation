@@ -161,4 +161,6 @@ As mentioned above, the infrastructure layer is managed by Governance.
 More information on how governance is structured and operated is
 described in the Governance documentation.
 
+{empty} +
+
 NOTE: The whole documentation was put together under `./melonprotocol-documentation` as pdf and adoc. To convert adoc to pdf you just need `asciidoctor-pdf`.
